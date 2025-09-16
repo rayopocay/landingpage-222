@@ -1,11 +1,11 @@
 # landingpage-222
 
-## Project setup
+## Project setup (Para descargar las dependencia faltante)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles the project (Corre el proyecto)
 ```
 npm run serve
 ```
