@@ -16,5 +16,7 @@
 </script>
 
 <style>
-
+*{
+    background-color: blueviolet;
+}
 </style>
