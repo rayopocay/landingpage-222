@@ -18,5 +18,6 @@
 <style>
 *{
     background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
 }
 </style>
