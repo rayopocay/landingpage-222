@@ -1,14 +1,25 @@
 <template>
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <!-- paola -->
+  <Menu_inicio/>
+  <!-- nayeli y andrea -->
+  <Contenedor/>
+  <!-- daniel -->
+  <Pie_pagina/>
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Menu_inicio from './components/menu.vue';
+import Contenedor from './components/contenedor.vue';
+import Pie_pagina from './components/pie_pagina.vue';
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Menu_inicio,
+    Contenedor,
+    Pie_pagina
   }
 }
 </script>
