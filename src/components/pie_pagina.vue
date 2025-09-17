@@ -96,7 +96,6 @@
 
 <style scoped>
 .full-width-footer {
-  /* Estilos para el footer completo */
   background-color: #d4a4f7;
   padding: 2rem;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -142,8 +141,8 @@
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
-  list-style-type: none; /* Elimina los puntos de la lista */
-  padding-left: 0; /* Asegura que la lista se alinee correctamente */
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .members-grid {
