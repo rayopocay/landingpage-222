@@ -30,11 +30,12 @@
 <style>
 
 .navbar{
-    height: 150px;
+    height: 100px;
+    font-size: larger;
 }
 
 .navbar {
-    background-color: #c8a8d8;
+    background-color: #d4a4f7;
     border-bottom: 1px solid #b899c7;
     padding: 10px 0;
 }
@@ -43,11 +44,9 @@
     margin: 0 auto;
     display: flex;
     align-items: center;
-    padding: 0 20px;
-    gap: 30px;
 }
 .logo {
-    height: 40px;
+    height: 100px;
     width: auto;
 }
 .nav-menu {
@@ -66,7 +65,12 @@
     color: #f0e6f5;
 }
 .nav-link.active {
-    color: #f0e6f5;
+    color: #F0E6EF;
     font-weight: bold;
+    background-color: #8f78b1;
+    padding: 10px;
+    border-radius: 8px;
 }
+
+
 </style>
