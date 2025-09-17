@@ -2,10 +2,10 @@
   <footer class="full-width-footer">
     <div class="footer-content-wrapper">
       <p class="copyright-text">© 2025 Página dedicada a BTS 💜</p>
-<!-- En este apartado van los videos más vistos del grupo-->
+
       <div class="sections-wrapper">
         <div class="video-links-section">
-          <h2 class="section-title">Videos más vistos: </h2>
+          <h2 class="section-title">Videos más vistos</h2>
           <ul class="link-list">
             <li>
               <a href="https://www.youtube.com/watch?v=gdZLi9oWNZg" 
@@ -23,7 +23,7 @@
             </li>
           </ul>
         </div>
-<!--Acá se han puesto los links hacía lo sperfiles de instagram de los integrantes y el perfil del grupo-->
+
         <div class="instagram-links-section">
           <h2 class="section-title">Instagram de BTS</h2>
           <ul class="link-list members-grid">
@@ -96,10 +96,12 @@
 
 <style scoped>
 .full-width-footer {
+  /* Estilos para el footer completo */
   background-color: #d4a4f7;
   padding: 2rem;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .footer-content-wrapper {
@@ -140,6 +142,8 @@
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
+  list-style-type: none; /* Elimina los puntos de la lista */
+  padding-left: 0; /* Asegura que la lista se alinee correctamente */
 }
 
 .members-grid {
