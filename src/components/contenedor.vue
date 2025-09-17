@@ -1,5 +1,5 @@
 <template>
-    <div class="bts-container"> <h1>💜 BTS (방탄소년단)</h1> <img class="bts-image" src="https://www.shutterstock.com/image-vector/bts-logo-bright-colors-division-600nw-2156401461.jpg" alt="BTS Logo" /> <p class="bts-description"> BTS es una boy band surcoreana formada por Big Hit Entertainment. El grupo debutó en 2013 y está compuesto por siete miembros: RM, Jin, Suga, J-Hope, Jimin, V y Jungkook. Son conocidos por sus letras significativas, coreografías impactantes y su amor por ARMY. 💜 </p>
+    <div class="bts-container"> <h1>💜 BTS (방탄소년단)</h1> <img class="bts-image" src="https://www.shutterstock.com/image-vector/bts-logo-bright-colors-division-600nw-2156401461.jpg" alt="BTS Logo" /> <p class="bts-description"> BTS es una boy band surcoreana formada por Big Hit Entertainment. El grupo debutó en 2013 y está compuesto por siete miembros: RM, Jin, Suga, J-Hope, Jimin, V y Jungkook. Son conocidos por sus letras significativas, coreografías impactantes y su amor por ARMY.</p>
     </div>
   <div class="carousel-container">
     <h3 class="carousel-title">✨ Conoce a los Miembros ✨</h3>
@@ -59,7 +59,7 @@ const members = ref([
   },
   {
     name: 'V (김태형) - Vocalista & Visual',
-    image: 'https://www.mundokpop.website/wp-content/uploads/2022/01/7-16.jpg'
+    image: 'https://www.actitudfem.com/800x600/filters:format(jpg):quality(75)/media/files/images/2021/02/quien-es-v-taehyung-bts-prin.jpg'
   },
   {
     name: 'Jungkook (전정국) - Vocalista Principal & Maknae',
