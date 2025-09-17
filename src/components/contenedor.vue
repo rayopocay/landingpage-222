@@ -7,7 +7,7 @@
       alt="BTS Logo"
     />
     <p class="bts-description">
-       es una boy band surcoreana formada por Big Hit Entertainment. El grupo debutó en 2013 y está compuesto por siete miembros: RM, Jin, Suga, J-Hope, Jimin, V y Jungkook. Son conocidos por sus letras significativas, coreografías impactantes y su amor por ARMY. 💜
+       BTS es una boy band surcoreana formada por Big Hit Entertainment. El grupo debutó en 2013 y está compuesto por siete miembros: RM, Jin, Suga, J-Hope, Jimin, V y Jungkook. Son conocidos por sus letras significativas, coreografías impactantes y su amor por ARMY. 💜
     </p>
   </div>
 </template>
