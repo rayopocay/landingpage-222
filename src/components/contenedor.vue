@@ -59,7 +59,7 @@ const members = ref([
   },
   {
     name: 'V (김태형) - Vocalista & Visual',
-    image: 'https://www.mundokpop.website/wp-content/uploads/2022/01/7-16.jpg'
+    image: 'https://www.actitudfem.com/800x600/filters:format(jpg):quality(75)/media/files/images/2021/02/quien-es-v-taehyung-bts-prin.jpg'
   },
   {
     name: 'Jungkook (전정국) - Vocalista Principal & Maknae',
