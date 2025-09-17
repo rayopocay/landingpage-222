@@ -3,7 +3,7 @@
     <h1>💜 BTS (방탄소년단)</h1>
     <img
       class="bts-image"
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7d/BTS_logo.svg"
+      src="https://www.shutterstock.com/image-vector/bts-logo-bright-colors-division-600nw-2156401461.jpg"
       alt="BTS Logo"
     />
     <p class="bts-description">
