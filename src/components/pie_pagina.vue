@@ -1,8 +1,6 @@
 <template>
   <footer class="full-width-footer">
     <div class="footer-content-wrapper">
-      <p class="copyright-text">© 2025 Página dedicada a BTS 💜</p>
-
       <div class="sections-wrapper">
         <div class="video-links-section">
           <h2 class="section-title">Videos más vistos</h2>
@@ -86,6 +84,7 @@
           </ul>
         </div>
       </div>
+      <p class="copyright-text">© 2025 Página dedicada a BTS 💜</p>
     </div>
   </footer>
 </template>
@@ -99,7 +98,6 @@
   background-color: #d4a4f7;
   padding: 2rem;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  margin-top: 2.5rem;
 }
 
 .footer-content-wrapper {
@@ -119,8 +117,9 @@
 .sections-wrapper {
   display: flex;
   justify-content: space-around;
-  gap: 2rem;
-  flex-wrap: wrap; 
+  gap: 3rem;
+  flex-wrap: wrap;
+  padding-top: 1.5rem;
 }
 
 .video-links-section, .instagram-links-section {
@@ -129,10 +128,14 @@
 }
 
 .section-title {
-  font-weight: 700;
-  font-size: 1.125rem;
-  margin-bottom: 0.75rem;
-  color: #5b21b6;
+  font-weight: 800;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: #4c1d95;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 4px;
+  border-bottom: 3px solid #a78bfa; /* subrayado moderno */
 }
 
 .link-list {
@@ -147,18 +150,21 @@
 .members-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 0.5rem 2rem;
+  gap: 0.75rem 1.5rem;
 }
 
 .link-style {
   color: #6d28d9;
-  transition-property: color;
-  transition-duration: 200ms;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.3s ease;
 }
 
 .link-style:hover {
-  color: #4c1d95;
-  text-decoration-line: underline;
+  background: #c4b5fd; 
+  transform: scale(1.05);
 }
 
 @media (max-width: 768px) {
